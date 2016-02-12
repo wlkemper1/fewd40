@@ -1,0 +1,44 @@
+
+
+body {
+	background-color: rgb(216,216,216);
+}
+
+
+header {
+	background-color: blue;
+}
+
+#second-row-left {
+	background-color: orange;
+	float: left;
+	width: 50%;
+}
+
+#second-row-right {
+	background-color: gray;
+	float: right;
+	width: 50%;
+}
+
+#left-aside {
+	background-color: red;
+	width: 25%;
+	float: left;
+}
+
+section {
+	background-color: green;
+	width: 50%;
+	float: left;
+}
+
+#right-aside {
+	background-color: purple;
+	width: 25%;
+	float: right;
+}
+
+footer {
+	background-color: yellow;
+}
