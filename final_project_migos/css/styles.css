@@ -1,0 +1,41 @@
+
+body {
+	max-width: 760px;
+	background-image: url("../images/bgpattern.jpg");
+	background-size: 40px;
+}
+
+
+.row {
+	padding-top: 10px;
+	clear: both;
+}
+
+#row1 {
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+#row2 {
+	padding-left: 60px;
+}
+
+#row3 {
+	padding-left: 80px;
+}
+
+.migobutton {
+	width: 50px;
+	height: 50px;
+	background: white;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: auto;
+	margin-right: 10px;
+	float: left;
+}
+
+.migopic {
+	width: 50px;
+	height: 50px;
+}
