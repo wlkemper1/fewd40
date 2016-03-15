@@ -372,7 +372,7 @@ footer p {
   position: absolute;
   margin-left: 100%;
   width: 150px;
-  height: 170px;
+  height: 200px;
   margin-top: -20px;
   z-index: 100;
   -webkit-transition-duration: 0.3s;
@@ -385,7 +385,7 @@ footer p {
   font-size: 18px;
   color: #fff;
   margin-left: 8px;
-  padding-right: 4px;
+  padding-right: 20px;
   margin-bottom: 8px;
 }
 
@@ -654,7 +654,6 @@ body {
 }
 #sidebar p a {
   color: #043049;
-  padding-top: 100px;
   font-weight: 600;
   text-align: center;
 
