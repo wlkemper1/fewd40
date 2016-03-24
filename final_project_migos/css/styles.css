@@ -76,7 +76,17 @@ body {
 //////////
 */
 
+<<<<<<< HEAD:final_project_migos/css/styles.css
 @media(max-width: 914px) {
+=======
+@media(max-width: 700px) {
+	
+	body {
+		overflow-y: visible;
+		overflow: scroll;
+		page-break-inside: avoid;
+	}
+>>>>>>> gh-pages:Final_Project_Migos/css/styles.css
 
 	.allrows {
 		visibility: hidden;
@@ -97,7 +107,11 @@ body {
 	}
 
 	.mobilerow {
+<<<<<<< HEAD:final_project_migos/css/styles.css
 		overflow: hidden;
+=======
+		margin-top: 30px;
+>>>>>>> gh-pages:Final_Project_Migos/css/styles.css
 	}
 
 
